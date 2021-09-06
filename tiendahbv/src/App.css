@@ -1,12 +1,13 @@
 .App {
+
+  margin: 0 auto;
  position:relative;
- 
-    background:rgb(52, 63, 219);
-    height:100vh;
-    width: 100%;
-    margin: 0 auto;
-    z-index:0;
-    text-align: center;
+ background:rgb(52, 63, 219);
+ height:100vh;
+ width: 100%;
+
+z-index:0;
+text-align: center;
 
 }
 
@@ -22,6 +23,7 @@
 }
 
 .App-header {
+
   background-color: #282c34;
   min-height: 100vh;
   display: flex;

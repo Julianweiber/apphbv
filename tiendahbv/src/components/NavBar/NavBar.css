@@ -1,0 +1,29 @@
+
+  
+    
+    .NavBar{
+        display:flex;
+        justify-content: space-evenly;
+        text-align:center;
+        text-decoration: none;
+        background-color:grey;
+    }
+    
+    button{
+        border-radius: 1ch;  
+        background-color:transparent;
+        text-decoration: none;
+        text-transform: uppercase;
+       
+        font-family: 'Big Shoulders Display', cursive;
+        font-size: 1.4rem;
+        transition: all 0.8s ease;
+        border-radius: 1ch;
+    
+    }
+
+
+    
+   
+    
+  

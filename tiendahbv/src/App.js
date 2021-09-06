@@ -1,17 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-import NavBar from './components/NavBar';
+import NavBar from './components/NavBar/NavBar';
 
-import './components/button.js';
-import './components/button.css';
 
 
 
 function App() {
   return (
     <div className="App">
+  
+     <NavBar/>
       <header className="App-header">
-      <NavBar/>
+      
         <img src={logo} className="App-logo" alt="logo" />
     
         <a
