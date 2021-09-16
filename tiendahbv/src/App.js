@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar/NavBar';
 import ItemListContainer from './components/NavBar/ItemListContainer/ItemListContainer';
-
+import ItemList from './components/NavBar/ItemListContainer/ItemList';
 
 
 
@@ -14,7 +14,7 @@ function App() {
       <NavBar/>
    
       <ItemListContainer/>
-
+<ItemList/>
     </header>
     </div>
   );
